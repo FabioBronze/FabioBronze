@@ -11,4 +11,3 @@
  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <div/>
-![bootstrap](https://user-images.githubusercontent.com/116193280/228911696-5ad5faf1-e0aa-4a6c-850b-f89463cf87c2.png)
