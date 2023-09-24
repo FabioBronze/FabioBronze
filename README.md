@@ -4,7 +4,7 @@
 
 <div>
  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="NextJS" height="40" width="40" src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://cdn.worldvectorlogo.com/logos/typescript.svg)" />
+  <img align="center" alt="Typescript" height="40" width="40" src="[[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://cdn.worldvectorlogo.com/logos/typescript.svg)](https://a.storyblok.com/f/88751/512x512/3fd17e7d63/typescript_logo_2020.svg)" />
  <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
  <img align="center" alt="Git" height="40" width="40" src="https://user-images.githubusercontent.com/116193280/228910856-a7b9c1cb-0518-4e28-860d-0af827cea515.png"/>
