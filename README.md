@@ -1,16 +1,14 @@
-### Olá, eu sou o Fábio, Desenvolvedor Front-End e apaixonado por Programação!
+<h1 align="center">Hello, I'm Fábio, Front-End Developer and passionate about technology!</h1>
 
-##
+ ### Main skills:
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-<div>
- <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Typescript" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
- <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
- <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
- <img align="center" alt="Git" height="40" width="40" src="https://user-images.githubusercontent.com/116193280/228910856-a7b9c1cb-0518-4e28-860d-0af827cea515.png"/>
- <img align="center" alt="Nodejs" height="40" width="60" src="https://user-images.githubusercontent.com/116193280/228911467-1739b657-ca18-4db6-853b-08b0b30a4735.png"/>
- <img align="center" alt="Bootstrap" height="40" width="40" src="https://user-images.githubusercontent.com/116193280/228911696-5ad5faf1-e0aa-4a6c-850b-f89463cf87c2.png"/>
- <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <hr>
-<div/>
+### Studying in this moment:
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000000&height=120&section=footer"/>
