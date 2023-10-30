@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Fábio, Front-End Developer and passionate about technology!</h1>
+<h1 align="center">Hello, I'm Fábio Bronze, Front-End Developer and passionate about technology!</h1>
 
  ### Main skills:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
