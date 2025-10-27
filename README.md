@@ -7,7 +7,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-### Studying in this moment:
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000000&height=120&section=footer"/>
+Below are some of my personal and freelance projects (available for showcase upon client approval). 👇
+You can also find more of my personal projects in my repositories.
