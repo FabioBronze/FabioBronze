@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Fábio Bronze, Front-End Developer and passionate about technology!</h1>
+<h1>Hello, I'm Fábio Bronze, Front-End Developer and passionate about technology!</h1>
 
  ### Main skills:
  TypeScript, NextJS, NodeJS, Javascript, React, SQL
